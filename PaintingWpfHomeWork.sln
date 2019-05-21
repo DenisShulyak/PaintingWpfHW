@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintingWpfHomeWork", "PaintingWpfHomeWork\PaintingWpfHomeWork.csproj", "{CD1BD196-D02D-4AD6-93FF-91177C8501BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD1BD196-D02D-4AD6-93FF-91177C8501BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1BD196-D02D-4AD6-93FF-91177C8501BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1BD196-D02D-4AD6-93FF-91177C8501BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1BD196-D02D-4AD6-93FF-91177C8501BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFAC8544-0F96-4B93-826D-DFB5434EDA2D}
+	EndGlobalSection
+EndGlobal
